@@ -1,0 +1,11 @@
+C:\Users\Telthem\Desktop\TutorialCshrp\Coursework1\Coursework1\bin\Debug\Coursework1.exe.config
+C:\Users\Telthem\Desktop\TutorialCshrp\Coursework1\Coursework1\bin\Debug\Coursework1.exe
+C:\Users\Telthem\Desktop\TutorialCshrp\Coursework1\Coursework1\bin\Debug\Coursework1.pdb
+C:\Users\Telthem\Desktop\TutorialCshrp\Coursework1\Coursework1\bin\Debug\Coursework1.xml
+C:\Users\Telthem\Desktop\TutorialCshrp\Coursework1\Coursework1\obj\Debug\Coursework1.vbprojResolveAssemblyReference.cache
+C:\Users\Telthem\Desktop\TutorialCshrp\Coursework1\Coursework1\obj\Debug\Coursework1.Form1.resources
+C:\Users\Telthem\Desktop\TutorialCshrp\Coursework1\Coursework1\obj\Debug\Coursework1.Resources.resources
+C:\Users\Telthem\Desktop\TutorialCshrp\Coursework1\Coursework1\obj\Debug\Coursework1.vbproj.GenerateResource.Cache
+C:\Users\Telthem\Desktop\TutorialCshrp\Coursework1\Coursework1\obj\Debug\Coursework1.exe
+C:\Users\Telthem\Desktop\TutorialCshrp\Coursework1\Coursework1\obj\Debug\Coursework1.xml
+C:\Users\Telthem\Desktop\TutorialCshrp\Coursework1\Coursework1\obj\Debug\Coursework1.pdb
